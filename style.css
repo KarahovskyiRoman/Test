@@ -1,0 +1,58 @@
+table {
+  color: darkgrey;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: green;
+  border: 2px solid blue;
+
+}
+
+td { 
+  background: olive; 
+  color: white; 
+  border: 15px solid black;
+}
+
+
+a{
+  color: yellow;
+  font-family: Arial, Verdana, sans-serif;;
+ 
+
+ 
+}
+
+#first {
+  color: gray;
+  font-weight: bold;
+  white-space: nowrap; 
+    overflow: hidden; 
+    background: #fc0; 
+    padding: 1px; 
+    text-overflow: ellipsis; /* Добавляем многоточие */
+}
+
+p {
+  padding-left: 20px;
+}
+
+.shadowtext {
+    text-shadow: 1px 1px 2px black, 0 0 1em red; 
+    color: white; 
+    font-size: 2em; 
+    text-align: center
+  }
+
+
+.someclass {
+      color: grey;
+      text-decoration: line-through ;
+    }
+
+    caption
+    {
+    text-shadow: 2px 2px 4px yellowgreen;, 0 0 2em blue; 
+    color: Black; 
+    font-size: 3em; 
+    text-align: center
+  }
